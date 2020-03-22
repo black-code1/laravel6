@@ -27,3 +27,5 @@ _4. Send an email with a unique link back to our site that confirms email owners
 _5. Link back to website, confirm the token, and set a new password._
 
 `php artisan route:list`
+
+# SECTION 9 Core Concepts
