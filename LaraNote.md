@@ -2,7 +2,7 @@
 
 ## Registration System
 
-`composer require laravel/ui --dev`
+`composer require laravel/ui:^1.0 --dev`
 `php artisan ui vue --auth`
 `php artisan route:list`
 `php artisan migrate`
